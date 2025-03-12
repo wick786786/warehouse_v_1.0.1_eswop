@@ -1,0 +1,12 @@
+{
+  "title": "Flutter Desktop ADB",
+  "waiting_message": "Esperando que se conecte el dispositivo...",
+  "connected_devices": "Dispositivos Conectados",
+  "device": "Dispositivo",
+  "model": "Modelo",
+  "manufacturer": "Fabricante",
+  "android_version": "Versión de Android",
+  "serial_number": "Número de Serie",
+  "imei": "IMEI",
+  "download_report": "Descargar Informe"
+}
